@@ -1,0 +1,7 @@
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\bin\Debug\Recap(21.7.26).exe.config
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\bin\Debug\Recap(21.7.26).exe
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\bin\Debug\Recap(21.7.26).pdb
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\obj\Debug\Recap(21.7.26).csproj.AssemblyReference.cache
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\obj\Debug\Recap(21.7.26).csproj.CoreCompileInputs.cache
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\obj\Debug\Recap(21.7.26).exe
+D:\Jo Uni\Sem2\C#\Recap(21.7.26)\Recap(21.7.26)\obj\Debug\Recap(21.7.26).pdb

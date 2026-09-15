@@ -1,0 +1,11 @@
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\bin\Debug\In-class assignment.exe.config
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\bin\Debug\In-class assignment.exe
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\bin\Debug\In-class assignment.pdb
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In-class assignment.csproj.AssemblyReference.cache
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In_class_assignment.Form1.resources
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In_class_assignment.Properties.Resources.resources
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In_class_assignment.Form2.resources
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In-class assignment.csproj.GenerateResource.cache
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In-class assignment.csproj.CoreCompileInputs.cache
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In-class assignment.exe
+D:\Jo Uni\Sem2\C#\In-class assignment\In-class assignment\obj\Debug\In-class assignment.pdb
